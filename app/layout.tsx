@@ -5,6 +5,9 @@ export const metadata: Metadata = {
   title: "Pure Unity Exports Ltd | Agricultural Export & Supply",
   description:
     "Pure Unity Exports Ltd connects Nigerian agricultural commodities with international buyers and supplies agricultural farm merchandise.",
+  verification: {
+    google: "UJCj6lk6RVLg0Cfy1JHVvUrqYeyGKowSkLuA3bDAoVc",
+  },
 };
 
 export default function RootLayout({
@@ -18,3 +21,4 @@ export default function RootLayout({
     </html>
   );
 }
+
